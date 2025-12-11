@@ -5,6 +5,10 @@ tmp/
 bin/
 build-errors.log
 
+# Database data
+db-data/
+project/db-data/
+
 # Logs
 logs
 *.log
